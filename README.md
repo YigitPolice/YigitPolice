@@ -12,3 +12,5 @@
 - 🔧 Otomasyon ve Bot Geliştirme  
 
 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/yiğit-poliçe-923a49330/) | [Twitter](https://x.com/icheisyigit) | [Email](yigitpolice@gmail.com)
+![Snake animation](https://github.com/YigitPolice/YigitPolice/blob/output/github-contribution-grid-snake.svg)
+
